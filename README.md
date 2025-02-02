@@ -1,10 +1,10 @@
-## 1.	Директория data_extracting.ipynb
+## Директория data_extracting.ipynb
 В директории data_extracting.ipynb находится Jupyter Notebook блокнот, в котором реализован процесс соединение всех датасетов торгов в один excel файл.
 
-## 2.	Директория converting_data.ipynb
+## Директория converting_data.ipynb
 В директории converting_data.ipynb находится Jupyter Notebook блокнот, в котором реализован процесс фильтрации и очистки данных, подготовки данных для обучения модели.
 
-## 3.	Директория model_training.ipynb
+## Директория model_training.ipynb
 В директории model_training.ipynb находится Jupyter Notebook блокнот, в котором реализован пайплайн обучения модели – рекомендательной системы поставщиков для заказчиков.
 
 
